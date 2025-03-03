@@ -33,6 +33,6 @@ This project is a Selenium-based automation framework using **TestNG** for UI te
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/vikashh01/your-repo-name.git
-cd your-repo-name
-# project
+git clone https://github.com/vikashh01
+cd vikashh01
+
